@@ -1,4 +1,4 @@
-🍽️ Recipe Recommendation Project
+🍽️ Recipe Recommendation Project 🍽️
 
 This is a simple recipe recommendation project using KNN and cosine similarity, developed in Python with the help of the scikit-learn and numpy libraries. Additionally, it includes recommendation scripts based on RandomForestClassifier and NaiveBayesClassifier models.
 
