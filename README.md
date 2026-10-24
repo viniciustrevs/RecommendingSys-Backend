@@ -4,7 +4,7 @@ This is a simple recipe recommendation project using KNN and cosine similarity, 
 
 The project analyzes the ingredients the user likes and recommends similar recipes, as well as attempts to classify the user’s preferred type of recipe.
 
-📋 Technologies Used
+📋 Technologies Used...
 Python 3.8 or higher
 Libraries: scikit-learn, numpy, Flask, Flasgger
 ⚙️ How to Run the Project Locally
