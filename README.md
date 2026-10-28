@@ -10,7 +10,7 @@ Libraries: scikit-learn, numpy, Flask, Flasgger
 ⚙️ How to Run the Project Locally
 1. Clone the repository
 
-Open your terminal and run:
+Open your terminal and run;
 
 git clone https:""
 cd recomendation_project
